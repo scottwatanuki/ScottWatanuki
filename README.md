@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Hello! My name is Scott Watanuki, and I’m an undergraduate student at the Georgia Institute of Technology, majoring in Computer Science with concentrations in Systems Architecture and Artificial Intelligence. 
+Hello! My name is Scott Watanuki, and I’m an undergraduate student at the Georgia Institute of Technology, majoring in Computer Science with concentrations in Artificial Intelligence and Systems Architecture.
 
-I'm in search of a summer 2023 software engineering internship.
+I am currently in search for a summer 2023 software engineering internship.
 
-I work as a Software Engineer Intern at GL Navigation and an Executive Vice President of Technology at Big Data Big Impact.
-In the past, I’ve created an AI model to diagnose cataracts, built software to optimize sleep schedules according to sleep chronotypes, programmed software to develop personalized planners for students, and managed an app with 1500 daily active users. 
+I work as a Software Engineer Intern at GL Navigation and also serve as the Senior Vice President of Technology at Big Data Big Impact.
+In the past, I’ve created an AI model to diagnose cataracts, built software to optimize sleep schedules according to sleep chronotypes, programmed software to develop personalized planners for students, and managed an app with 1500 daily active users.
 
 Through the Stanford e-Entrepreneurship program, I have led a team of four to win a startup pitch competition evaluated by Venture Capitalists from Silicon Valley. 
 
