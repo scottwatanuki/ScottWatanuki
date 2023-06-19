@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Hello! My name is Scott Watanuki, and I’m an rising junior at the Georgia Institute of Technology, majoring in Computer Science with concentrations in Artificial Intelligence and Information Internetworks.
-Please feel free to contact me!
+Hello! I'm Scott Watanuki, a rising junior and Computer Science major at the Georgia Institute of Technology with concentrations in Artificial Intelligence and Information Internetworks.
+My interests lie in Machine Learning and Distributed Systems (Back-end).
 
-[Personal Website](https://scottwatanuki.github.io/personalwebsite/)
-[LinkedIn](https://www.linkedin.com/in/scottwatanuki/)
+I am actively seeking summer 2024 internship opportunities.
+If you know of any potential opportunities or have any advice, I'd love to hear from you! Please feel free to reach out and connect. Thank you!
