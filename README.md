@@ -15,7 +15,3 @@ If you know of any potential opportunities or have any advice, I'd love to hear 
 [Email](scottwatanuki@gatech.edu)
 
 [Buy Me a Coffee and Support my Endeavors!](https://www.buymeacoffee.com/scottwatanuki)
-
-### Projects
-
-[Real Work](https://scottwatanuki.github.io/real-work/)
