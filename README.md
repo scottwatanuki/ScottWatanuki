@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-Hello! I'm Scott Watanuki, a rising junior and Computer Science major at the Georgia Institute of Technology with concentrations in Artificial Intelligence and Information Internetworks.
-
-I am actively seeking summer 2024 internship opportunities.
-If you know of any potential opportunities or have any advice, I'd love to hear from you! Please feel free to reach out and connect. Thank you!
+Hi! I'm Scott Watanuki, a CS major at the Georgia Institute of Technology, specializing in Artificial Intelligence and Information Internetworks.
+I’m actively seeking summer 2024 software engineering internship opportunities.
+Please feel free to reach out and connect!
 
 [LinkedIn](https://www.linkedin.com/in/scottwatanuki/)
 
