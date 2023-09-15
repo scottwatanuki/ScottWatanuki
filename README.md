@@ -1,26 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Scott Watanuki</h1>
+<h3 align="center">CS @ Georgia Tech | Software Engineer</h3>
 
+<h3 align="left">About me:</h3>
 Hi! I'm Scott Watanuki, a CS major at the Georgia Institute of Technology, specializing in Artificial Intelligence and Information Internetworks.
 I’m actively seeking summer 2024 software engineering internship opportunities.
 Please feel free to reach out and connect!
 
-[LinkedIn](https://www.linkedin.com/in/scottwatanuki/)
+- 👨‍💻 All of my projects are available at [https://scottwatanuki.github.io/personalwebsite/](https://scottwatanuki.github.io/personalwebsite/)
 
-[Personal Website](https://scottwatanuki.github.io/personalwebsite/)
+- 📫 How to reach me **scottwatanuk@gatech.edu**
 
-[Portfolio](https://github.com/scottwatanuki)
-
-[Email](scottwatanuki@gatech.edu)
-
-[Buy Me a Coffee and Support my Endeavors!](https://www.buymeacoffee.com/scottwatanuki)
-
-<h1 align="center">Hi 👋, I'm Scott Watanuki</h1>
-<h3 align="center">CS @ Georgia Tech | Software Engineer</h3>
+- 📄 Know about my experiences [https://scottwatanuki.github.io/personalwebsite/files/Scott_Watanuki_Resume.pdf](https://scottwatanuki.github.io/personalwebsite/files/Scott_Watanuki_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/scottwatanuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottwatanuki" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/scott_watanuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="scott_watanuki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
