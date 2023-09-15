@@ -10,8 +10,6 @@ Please feel free to reach out and connect!
 
 - 📫 How to reach me **scottwatanuk@gatech.edu**
 
-- 📄 Know about my experiences [https://scottwatanuki.github.io/personalwebsite/files/Scott_Watanuki_Resume.pdf](https://scottwatanuki.github.io/personalwebsite/files/Scott_Watanuki_Resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/scottwatanuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottwatanuki" height="30" width="40" /></a>
