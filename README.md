@@ -6,7 +6,7 @@ Hi! I'm Scott Watanuki, a CS major at the Georgia Institute of Technology, speci
 I’m actively seeking summer 2024 software engineering internship opportunities.
 Please feel free to reach out and connect!
 
-- 👨‍💻 All of my projects are available at [https://scottwatanuki.github.io/personalwebsite/](https://scottwatanuki.github.io/personalwebsite/)
+- 👨‍💻 Learn more about me at [https://scottwatanuki.github.io/personalwebsite/](https://scottwatanuki.github.io/personalwebsite/)
 
 - 📫 How to reach me **scottwatanuk@gatech.edu**
 
