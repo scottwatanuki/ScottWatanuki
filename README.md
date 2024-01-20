@@ -2,8 +2,7 @@
 <h3 align="center">CS @ Georgia Tech | Software Engineer</h3>
 
 <h3 align="left">About me:</h3>
-Hi! I'm Scott Watanuki, a CS major at the Georgia Institute of Technology, specializing in Artificial Intelligence and Information Internetworks.
-I’m actively seeking summer 2024 software engineering internship opportunities.
+Hi! I'm Scott Watanuki, an undergraduate pursuing a Bachelor of Science in Computer Science at the Georgia Institute of Technology.
 Please feel free to reach out and connect!
 
 - 👨‍💻 Learn more about me at [https://scottwatanuki.github.io/personalwebsite/](https://scottwatanuki.github.io/personalwebsite/)
