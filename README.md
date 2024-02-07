@@ -4,7 +4,6 @@
 <h3 align="left">About me:</h3>
 Welcome! I'm a student and software engineer leveraging technology to drive meaningful change and build the future!
 Please feel free to reach out and connect!
-Learn more about me at https://scottwatanuki.github.io/personalwebsite/
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
