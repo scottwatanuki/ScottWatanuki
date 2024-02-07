@@ -1,9 +1,8 @@
 <h1 align="center">Hi!👋 I'm Scott Watanuki</h1>
 <h3 align="center">CS @ Georgia Tech | Software Engineer</h3>
 
-<h3 align="middle"></h3>
-Welcome! I'm a student and software engineer leveraging technology to drive meaningful change and build the future!
-Please feel free to reach out and connect!
+<p align="middle">Welcome! I'm a student and software engineer leveraging technology to drive meaningful change and build the future!
+Please feel free to reach out and connect!</p>
 
 <h3 align="left">Email me!</h3>
 <p><a href="mailto:scottwatanuki@gatech.edu"> <img align="left" src="https://t4.ftcdn.net/jpg/05/37/41/55/360_F_537415557_jzA3aAlyzbflHCKgG2pTV12dWGF56TiH.jpg" height="45" width="55" alt="scottwatanuki" /></a></p><br><br>
