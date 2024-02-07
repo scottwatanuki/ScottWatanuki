@@ -1,7 +1,7 @@
 <h1 align="center">Hi!👋 I'm Scott Watanuki</h1>
 <h3 align="center">CS @ Georgia Tech | Software Engineer</h3>
 
-<h3 align="left">About me:</h3>
+<h3 align="left">About me!</h3>
 Welcome! I'm a student and software engineer leveraging technology to drive meaningful change and build the future!
 Please feel free to reach out and connect!
 
