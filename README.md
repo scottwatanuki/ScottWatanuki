@@ -13,7 +13,7 @@ Please feel free to reach out and connect!
 </p>
 
 <h3 align="left">Email me!</h3>
-<p><a href="https://www.buymeacoffee.com/scottwatanuki"> <img align="left" src="https://scottwatanuki.github.io/personalwebsite/images/email.png" height="30" width="40" alt="scottwatanuki" /></a></p><br><br>
+<p><a href="scottwatanuki@gatech.edu"> <img align="left" src="https://scottwatanuki.github.io/personalwebsite/images/email.png" height="30" width="30" alt="scottwatanuki" /></a></p><br><br>
 
 <h3 align="left">Support me!</h3>
 <p><a href="https://www.buymeacoffee.com/scottwatanuki"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scottwatanuki" /></a></p><br><br>
