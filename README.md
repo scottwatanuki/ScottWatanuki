@@ -4,8 +4,7 @@
 <p align="middle">Welcome! I'm Scott Watanuki, a software engineer leveraging technology to drive meaningful change and build the future!
 Please feel free to reach out and connect!</p>
 
-<h3 align="left">Email me!</h3>
-<p><a href="mailto:scottwatanuki@gatech.edu">scottwatanuki@gatech.edu</a></p><br><br>
+<h3 align="left"><a href="mailto:scottwatanuki@gatech.edu">Email me!</a><br>
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
