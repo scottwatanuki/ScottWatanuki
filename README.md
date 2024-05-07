@@ -5,7 +5,7 @@
 Please feel free to reach out and connect!</p>
 
 <h3 align="left">Email me!</h3>
-<p><a href="mailto:scottwatanuki@gatech.edu"> <img align="left" src="https://t4.ftcdn.net/jpg/05/37/41/55/360_F_537415557_jzA3aAlyzbflHCKgG2pTV12dWGF56TiH.jpg" height="45" width="55" alt="scottwatanuki" /></a></p><br><br>
+<p><a href="mailto:scottwatanuki@gatech.edu"> <img align="left" src="https://banner2.cleanpng.com/20180715/urc/kisspng-computer-icons-html-email-green-email-icon-5b4af8bac5a925.8003476815316399948096.jpg" height="45" width="55" alt="scottwatanuki" /></a></p><br><br>
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
