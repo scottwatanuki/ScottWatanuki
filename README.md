@@ -1,5 +1,5 @@
 <h1 align="center">Hi!👋 I'm Scott Watanuki</h1>
-<h3 align="center">SWE Intern @ Pinterest 📌 | CS @ Georgia Tech 🐝</h3>
+<h3 align="center">Software Enigneer Intern @ Pinterest 📌 | CS @ Georgia Tech 🐝</h3>
 
 <p align="middle">Welcome! I'm Scott Watanuki, a software engineer leveraging technology to drive meaningful change and build the future!
 Please feel free to reach out and connect!</p>
