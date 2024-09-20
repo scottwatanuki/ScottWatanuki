@@ -4,7 +4,7 @@
 <p align="middle">Aloha! 🌴
 I'm Scott Watanuki, a former Software Engineer Intern at Pinterest and currently pursuing a BS/MS in Computer Science at Georgia Tech.
 
-I’m actively exploring Summer 2025 internship roles and would love to connect with you! Feel free to message me here on LinkedIn or reach out via email at scott.watanuki.1@gmail.com Thank you!</p>
+I’m actively exploring Summer 2025 internship roles and would love to connect with you! Feel free to message me on LinkedIn or reach out via email at scott.watanuki.1@gmail.com Thank you!</p>
 
 <h3 align="left"><a href="mailto:scottwatanuki@gatech.edu">Email me!</a><br>
 
