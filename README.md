@@ -1,7 +1,7 @@
 <h1 align="center">Aloha! 🌴</h1>
 <h3 align="center">BS/MS Computer Science @ Georgia Tech 🐝 | Prev. SWE Intern @ Pinterest 📌</h3>
 
-<p align="middle">I'm Scott Watanuki, pursuing a Bachelor's and Master's in Computer Science at the Georgia Institute of Technology and a former Software Engineer Intern at Pinterest.
+<p align="middle">I'm Scott Watanuki, pursuing a Bachelor's and Master's in Computer Science at the Georgia Institute of Technology and a former Software Engineering Intern at Pinterest.
 
 I’m actively exploring Summer 2025 internship roles and would love to connect with you! Feel free to message me on LinkedIn. Thank you!</p>
 
