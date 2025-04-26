@@ -1,9 +1,9 @@
 <h1 align="center">Aloha! 🌴</h1>
-<h3 align="center">BS/MS Computer Science @ Georgia Tech 🐝 | Prev SWE Intern @ Pinterest 📌</h3>
+<h3 align="center">Incoming SWE Intern @ Meta | Prev SWE Intern @ Pinterest 📌 | BS/MS Computer Science @ Georgia Tech 🐝</h3>
 
-<p align="middle">I'm Scott Watanuki, a Software Engineer passionate about building impactful, user-centered products at scale. Currently, I'm a BS/MS Computer Science student at Georgia Tech (expected graduation May 2026) with past internship experience at Pinterest.
+<p align="middle">Aloha! 🤙 I'm an incoming Software Engineer Intern at Meta, previous Software Engineer Intern at Pinterest, and BS/MS in Computer Science student at Georgia Tech (graduating May 2026) — passionate about building impactful, user-centered products at scale.
 
-Let’s connect! I'd love to chat with you about anything from 2026 new grad opportunities to sharing interesting ideas/info!
+Let’s connect! Always happy to chat about 2026 new grad opportunities or exchange interesting ideas!
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
