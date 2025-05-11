@@ -1,7 +1,7 @@
 <h1 align="center">Aloha! 🌴</h1>
-<h3 align="center">Incoming SWE Intern @ Meta | Prev SWE Intern @ Pinterest 📌 | BS/MS Computer Science @ Georgia Tech 🐝</h3>
+<h3 align="center">SWE Intern @ Meta | Prev SWE Intern @ Pinterest 📌 | BS/MS Computer Science @ Georgia Tech 🐝</h3>
 
-<p align="middle">Aloha! 🤙 I'm an incoming Software Engineer Intern at Meta, previous Software Engineer Intern at Pinterest, and BS/MS in Computer Science student at Georgia Tech (graduating May 2026) — passionate about building impactful, user-centered products at scale.
+<p align="middle">Aloha! 🤙 I'm a Software Engineer Intern at Meta, previous Software Engineer Intern at Pinterest, and BS/MS in Computer Science student at Georgia Tech (graduating May 2026) — passionate about building impactful, user-centered products at scale.
 
 Let’s connect! Always happy to chat about 2026 new grad opportunities or exchange interesting ideas!
 
