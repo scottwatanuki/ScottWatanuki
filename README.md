@@ -1,5 +1,5 @@
 <h1 align="center">Aloha! 🌴</h1>
-<h3 align="center">Software Engineer Intern @ Meta & Pinterest | BS/MS CS @ Georgia Tech 🐝</h3>
+<h3 align="center">Software Engineer | Prev @ Meta, Pinterest | BS/MS CS @ Georgia Tech 🐝</h3>
 
 <p align="middle">Aloha 🤙 I’m Scott, a BS/MS Computer Science student at Georgia Tech (graduating May 2026) with recent software engineering experience at Meta and Pinterest. I’m passionate about building impactful, user-centered products at scale.
 
